@@ -23,3 +23,6 @@ Architectur of transformer model:
 
 
 **According to above image model is created in this project,after training the model during testing the model gaved 90 percent accurate result which is quite good because i trained the model only for 10 epochs and getting this much accuracy in the result is great this basically indicate that transformer model is good and transformer based model is best for this type of projects**
+
+
+**Dataset Zipfile link:http://storage.googleapis.com/download.tensorflow.org/data/spa-eng.zip  **
