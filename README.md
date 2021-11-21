@@ -14,5 +14,8 @@
 
 6.re(Regular Expression)
 
+7.GPU
 
 **Dataset for this project is provided in this repositories in the format of zip file**
+
+
