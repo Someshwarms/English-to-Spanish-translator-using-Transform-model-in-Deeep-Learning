@@ -1,4 +1,4 @@
-# English-to-Spanish-translator-using-Transform-model-in-Deeep-Learning
+# English-to-Spanish-translator-using-Transformer-model-in-Deeep-Learning
 
 **All the packages which is required for this project:**
 
@@ -13,3 +13,6 @@
 5.Pathlib
 
 6.re(Regular Expression)
+
+
+**Dataset for this project is provided in this repositories in the format of zip file**
