@@ -2,14 +2,14 @@
 
 **All the packages which is required for this project:**
 
-Numpy
+1.Numpy
 
-Tensorflow 
+2.Tensorflow 
 
-Keras
+3.Keras
 
-Random
+4.Random
 
-Pathlib
+5.Pathlib
 
-re(Regular Expression)
+6.re(Regular Expression)
