@@ -20,3 +20,6 @@
 
 Architectur of transformer model:
 ![image](https://user-images.githubusercontent.com/93418572/142771401-e0e16e73-682d-43ba-9811-993330cb97c7.png)
+
+
+#**According to above image model is created in this project**
